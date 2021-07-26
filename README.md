@@ -5,7 +5,13 @@
 
 # **Hello world!**
 ### On GitHub I am:
-* Practicing proper version control techniques via Git
-* Learning web development with HTML and CSS
-* Collaberating on projects with colleagues 
+* Practicing proper version control techniques via *Git*
+* Learning *HTML*, *C#*, and *Python* for web/app devlopment. 
+* Collaborating with other Leapers in the *Microsoft LEAP apprenticeship program*.
+
+### I enjoy
+* 
+* 
+* 
+
 
