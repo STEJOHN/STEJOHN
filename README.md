@@ -9,7 +9,7 @@
 # **Hello world!**
 ## On GitHub I am:
 * Practicing proper version control techniques via Git
-* Learning HTML, C#, and *Python for web/app devlopment. 
+* Learning *HTML*, *C#*, and *Python* for web/app devlopment. 
 * Collaborating with other Leapers in the *Microsoft LEAP apprenticeship program*.
 
 ## I enjoy
