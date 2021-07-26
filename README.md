@@ -7,15 +7,23 @@
 
 
 # **Hello world!**
-## On GitHub I am:
+### On GitHub I am:
 * Practicing proper version control techniques via Git
-* Learning *HTML*, *C#*, and *Python* for web/app devlopment. 
-* Collaborating with other Leapers in the *Microsoft LEAP apprenticeship program*.
+* Learning *HTML*, *C#*, and *Python* for web/app devlopment
+* Collaborating with other Leapers in the *Microsoft LEAP apprenticeship program*
 
-## I enjoy
+### I enjoy
 * Spending time with my wife and two children
 * Going on hikes with my family 
-* Offroading in my **Jeep Wrangler**
+* Offroading in my Jeep Wrangler
+
+### Professional
+* Worked as an IT administrator for small municipality and worked on website 
+
+
+
+
+
 
 
 
