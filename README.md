@@ -1,12 +1,15 @@
 <!--
 **STEJOHN/STEJOHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+
 <p align="center">
   <img src="./img/myphoto.jpg" alt="my profile photo"/>
 </p> <!-- Did not use markdown for photo due to using HTML to center img -->
 
 
 # **Hello world!**
+
+
 ### On GitHub I am:
 * Practicing proper version control techniques via Git
 * Learning *HTML*, *C#*, and *Python* for web/app devlopment
@@ -19,6 +22,10 @@
 
 ### Professional
 * Worked as an IT administrator for small municipality and worked on website 
+
+### Contact
+* stephenjayyy@gmail.com
+* https://github.com/STEJOHN
 
 
 
