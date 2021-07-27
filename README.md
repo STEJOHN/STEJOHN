@@ -12,20 +12,29 @@
 
 ### On GitHub I am:
 * Practicing proper version control techniques via Git
+
 * Learning *HTML*, *C#*, and *Python* for web/app devlopment
+
 * Collaborating with other Leapers in the *Microsoft LEAP apprenticeship program*
+
 
 ### I enjoy
 * Spending time with my wife and two children
+
 * Going on hikes with my family 
+
 * Offroading in my Jeep Wrangler
 
 ### Professional
-* Worked as an IT administrator for small municipality and worked on website 
+* Currently enrolled in the Microsoft Internal LEAP program while also working at the datacenter
 
-### Contact
+* Worked as an IT administrator for small municipality and developed website
+
+### Contact 
 * stephenjayyy@gmail.com
-* https://github.com/STEJOHN
+
+* https://www.linkedin.com/in/andrew-S-johnson-a92310213/
+
 
 
 
