@@ -18,7 +18,7 @@
 * Collaborating with other Leapers in the *Microsoft LEAP apprenticeship program*
 
 
-### I enjoy
+### I enjoy:
 * Spending time with my wife and two children
 
 * Going on hikes with my family 
