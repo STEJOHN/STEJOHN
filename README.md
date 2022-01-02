@@ -31,9 +31,9 @@
 * Worked as an IT administrator for small municipality and developed website
 
 ### Contact 
-* stephenjayyy@gmail.com
+* [Email](mailto:stephenjayyy@gmail.com)
 
-* https://www.linkedin.com/in/andrew-S-johnson-a92310213/
+* [LinkedIn](https://www.linkedin.com/in/andrew-S-johnson-a92310213/)
 
 
 
