@@ -13,7 +13,7 @@
 ### On GitHub I am:
 * Practicing proper version control techniques via Git
 
-* Learning *HTML*, *C#*, and *Python* for web/app devlopment
+* Learning fullstack web development and .NET framework
 
 * Collaborating with other Leapers in the *Microsoft LEAP apprenticeship program*
 
@@ -26,7 +26,7 @@
 * Offroading in my Jeep Wrangler
 
 ### Professional
-* Currently enrolled in the Microsoft Internal LEAP program while also working at the datacenter
+* Currently in the Microsoft LEAP program for software engineering 
 
 * Worked as an IT administrator for small municipality and developed website
 
