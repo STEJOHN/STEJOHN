@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="./img/myphoto.jpg" alt="my profile photo"/>
+  
 </p> <!-- Did not use markdown for photo due to using HTML to center img -->
 
 
